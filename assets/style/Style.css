@@ -23,3 +23,10 @@
 .midde {
 	text-align: center;
 }
+
+@font-face {
+	font-family: BebasNeue Bold;  
+	src: url(assets/fonts/BebasNeue_Bold.ttf);  
+	font-weight: normal;
+}
+
