@@ -1,11 +1,24 @@
 .center_text {
 	text-align: center;
+
+
+
 }
 .iframe_frontpage {
 	width: 560px;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: auto;
+	margin-top: 50;
 	margin-bottom: auto;
-	
+}
+.left_text {
+	text-align: center;
+
+
+}
+.middle_test {
+	text-align: center;
+}
+.midde {
+	text-align: center;
 }
