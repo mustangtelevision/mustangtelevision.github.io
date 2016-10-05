@@ -1,6 +1,8 @@
+@import url("../../webfonts/BebasNeue_Regular/stylesheet.css");
 .center_text {
 	text-align: center;
 	font-size: 100px;
+	font-family: "BebasNeue Regular";
 
 
 
@@ -29,4 +31,3 @@
 	src: url(assets/fonts/BebasNeue_Bold.ttf);  
 	font-weight: normal;
 }
-
