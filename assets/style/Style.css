@@ -1,11 +1,12 @@
 .center_text {
 	text-align: center;
+	font-size: 100px;
 
 
 
 }
 .iframe_frontpage {
-	width: 560px;
+	width: 1280px;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 50;
