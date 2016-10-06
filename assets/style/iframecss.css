@@ -1,16 +1,8 @@
-.video-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding-bottom: 56.25%;
-    padding-top: 30px; 
-    overflow: hidden;
-    
+#content {
+    width: 70vw;
+    margin:auto;
 }
- 
-.video-container iframe,
-.video-container object,
-.video-container embed {
-    width: 1280px;
-    height: 100%;
+#content iframe {
+    width: 70vw;
+    height:calc((9/16)*70vw);
 }
