@@ -1,15 +1,16 @@
 .video-container {
-    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     padding-bottom: 56.25%;
-    padding-top: 30px; height: 0; overflow: hidden;
+    padding-top: 30px; 
+    overflow: hidden;
+    
 }
  
 .video-container iframe,
 .video-container object,
 .video-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
+    width: 1280px;
     height: 100%;
 }
