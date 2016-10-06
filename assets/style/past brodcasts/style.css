@@ -9,3 +9,6 @@
 .title {
 	text-align: center;
 }
+.title p {
+	font-size: medium;
+}

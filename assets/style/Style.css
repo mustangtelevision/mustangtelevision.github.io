@@ -35,3 +35,7 @@
 	src: url(assets/fonts/BebasNeue_Bold.ttf);  
 	font-weight: normal;
 }
+.link {
+	font-size: medium;
+	text-align: center;
+}
