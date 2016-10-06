@@ -1,4 +1,6 @@
 @import url("../webfonts/BebasNeue_Regular/stylesheet.css");
+@import url("../../webfonts/PT_Sans_Web_Regular/stylesheet.css");
+
 .center_text {
 	text-align: center;
 	font-size: 100px;
@@ -25,6 +27,7 @@
 .midde {
 	text-align: center;
 	font-size: 24px;
+	font-family: "PT Sans Web Regular";
 }
 
 @font-face {
