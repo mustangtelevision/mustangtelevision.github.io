@@ -20,6 +20,7 @@ ul.topnav li a {
   text-decoration: none;
   transition: 0.3s;
   font-size: 30px;
+  margin-right: auto;
 }
 
 ul.topnav li a:hover {background-color: #555;}
@@ -49,6 +50,7 @@ ul.topnav li.icon {display: none;}
     display: block;
     text-align: left;
   }
+ 
 }
 
 

@@ -9,6 +9,11 @@
 
 
 }
+.table {
+	display: table;
+	margin: 0 auto;
+}
+	
 .iframe_frontpage {
 	width: 1280px;
 	margin-left: auto;
