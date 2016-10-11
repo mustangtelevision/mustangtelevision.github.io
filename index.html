@@ -1,6 +1,7 @@
 <!-- refs to diffrent files-->
 <link href="assets/style/Style.css" rel="stylesheet" type="text/css">
 <link href="assets/style/iframecss.css" rel="stylesheet" type="text/css">
+<link href="assets/style/navbar.css" rel="stylesheet" type="text/css">
 <!--End of refs -->
 
 <title>Mustang TV</title>
@@ -26,6 +27,31 @@
 <!--End Favicons--> 
 
 <h1 class="center_text">Welcome to Mustang TV!</h1>
+
+<ul class="topnav" id="myTopnav">
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="past_broadcasts">Past Broadcasts</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+  <li class="icon">
+    <a href="javascript:void(0);" style="font-size:15px;" onclick="myFunction()">☰</a>
+  </li>
+</ul>
+
+
+
+<script>
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+</script>
+
+
 <p class="midde">Check out our latest broadcast below!</p>
 
 
@@ -35,7 +61,7 @@
 </div>
 
 
-<p> <a href="past_broadcasts/" class="link">Check out our broadcast history here!</a></p>
+
 
 
 
