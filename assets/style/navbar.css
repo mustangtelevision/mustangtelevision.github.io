@@ -52,5 +52,8 @@ ul.topnav li.icon {display: none;}
   }
  
 }
-
+.table {
+	display: table;
+	margin: 0 auto;
+}
 

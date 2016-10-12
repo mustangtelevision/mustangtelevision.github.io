@@ -12,3 +12,26 @@
 .title p {
 	font-size: medium;
 }
+body {
+	background-color: #c3c;
+	text-align: center;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:active {
+	text-decoration: none;
+}
+.box{
+    float:center;
+    margin-right:20px;
+}
+.clear{
+    clear:both;
+}

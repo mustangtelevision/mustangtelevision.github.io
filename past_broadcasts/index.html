@@ -1,32 +1,39 @@
 <!doctype html>
+<link href="../assets/style/navbar.css" rel="stylesheet" type="text/css">
 <html>
 <head>
+<ul class="topnav" id="myTopnav">
+<div class="table">
+  <li><a class="active" href="/">Home</a></li>
+  <li><a href="past_broadcasts">Past Broadcasts</a></li>
+  <li><a href="contact">Contact</a></li>
+  <li><a href="about">About</a></li>
+  <li class="icon">
+    <a href="javascript:void(0);" style="font-size:15px;" onclick="myFunction()">☰</a>
+  </li>
+</ul>
 <meta charset="utf-8">
 <title>Past Broadcasts - Mustang TV</title>
 <link href="../assets/style/past broadcasts/style.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-body {
-	background-color: #c3c;
-	text-align: center;
-}
-a:link {
-	text-decoration: none;
-}
-a:visited {
-	text-decoration: none;
-}
-a:hover {
-	text-decoration: underline;
-}
-a:active {
-	text-decoration: none;
-}
-</style>
+
 </head>
 
 <body>
+<div class="box"><iframe src="https://embed.spotify.com/?uri=spotify:user:1290230929:playlist:6nTIVNGZfnZ4urUiwHIgpT" frameborder="0" scrolling="no" width="100%" height="512" align="left"> </iframe> </div>
+
+<div class="box">    <iframe src="https://embed.spotify.com/?uri=spotify:user:1285279066:playlist:56KI83cMiMTOocIdXq2R5j" frameborder="0" scrolling="no" width="100%" height="512" align="right">
+    </iframe>
 <p class="title">We don't have anything here at the moment, check back soon!</p>
 <p><a href="../">Go Back</a></p>
 </body>
-
+<script>
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+</script>
 </html>
