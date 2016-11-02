@@ -1,8 +1,0 @@
-#content {
-    width: 70vw;
-    margin:auto;
-}
-#content iframe {
-    width: 70vw;
-    height:calc((9/16)*70vw);
-}
