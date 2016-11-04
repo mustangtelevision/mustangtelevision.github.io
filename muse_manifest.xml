@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="github.io" resolutions="1x" timestamp="1478063840107">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="github.io" resolutions="1x" timestamp="1478238957394">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
     <file name="contact.css" crc="24826601" ref="contact"/>
     <file name="october.css" crc="261689603" ref="october"/>
     <file name="about.css" crc="3903624108" ref="about"/>
-    <file name="november.css" crc="49073708" ref="november"/>
-    <file name="index.css" crc="4107296033" ref="index"/>
+    <file name="november.css" crc="360897699" ref="november"/>
+    <file name="index.css" crc="339620859" ref="index"/>
     <file name="september.css" crc="3963302954" ref="september"/>
     <file name="past-broadcasts.css" crc="4018391057" ref="past-broadcasts"/>
   </folder>
@@ -23,11 +23,11 @@
   <folder name="images">
     <file name="arrowmenudown.png" crc="345214036" ref="index"/>
   </folder>
-  <file name="index.html" crc="145157582" seo="true" mt="1478056888668" redirect="true"/>
+  <file name="index.html" crc="4282848641" seo="true" mt="1478238827658" redirect="true"/>
   <file name="past-broadcasts.html" crc="481887959" seo="true" mt="1478060542307" redirect="true"/>
   <file name="contact.html" crc="167561983" seo="true" mt="1478063821363" redirect="true"/>
   <file name="about.html" crc="4224717165" seo="true" mt="1478061508581" redirect="true"/>
   <file name="september.html" crc="3822931133" seo="true" mt="1478060601244" redirect="true"/>
   <file name="october.html" crc="511078937" seo="true" mt="1478060629980" redirect="true"/>
-  <file name="november.html" crc="167786248" seo="true" mt="1478060646816" redirect="true"/>
+  <file name="november.html" crc="4258384210" seo="true" mt="1478238944407" redirect="true"/>
 </manifest>
