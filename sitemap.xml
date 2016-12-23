@@ -1,44 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://github.io/index.html</loc>
-    <lastmod>2016-11-03</lastmod>
+    <loc>http://mustangtelevision.github.io/index.html</loc>
+    <lastmod>2016-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://github.io/past-broadcasts.html</loc>
-    <lastmod>2016-11-01</lastmod>
+    <loc>http://mustangtelevision.github.io/past-broadcasts.html</loc>
+    <lastmod>2016-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://github.io/contact.html</loc>
-    <lastmod>2016-11-01</lastmod>
+    <loc>http://mustangtelevision.github.io/contact.html</loc>
+    <lastmod>2016-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://github.io/about.html</loc>
-    <lastmod>2016-11-01</lastmod>
+    <loc>http://mustangtelevision.github.io/about.html</loc>
+    <lastmod>2016-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://github.io/september.html</loc>
-    <lastmod>2016-11-01</lastmod>
+    <loc>http://mustangtelevision.github.io/september.html</loc>
+    <lastmod>2016-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://github.io/october.html</loc>
-    <lastmod>2016-11-01</lastmod>
+    <loc>http://mustangtelevision.github.io/october.html</loc>
+    <lastmod>2016-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://github.io/november.html</loc>
-    <lastmod>2016-11-03</lastmod>
+    <loc>http://mustangtelevision.github.io/november.html</loc>
+    <lastmod>2016-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mustangtelevision.github.io/december.html</loc>
+    <lastmod>2016-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

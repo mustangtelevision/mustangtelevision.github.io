@@ -1,33 +1,34 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="github.io" resolutions="1x" timestamp="1478238957394">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mustangtelevision.github.io" resolutions="1x" timestamp="1482472675221">
   <folder name="css">
-    <file name="site_global.css" crc="3916556066"/>
-    <file name="contact.css" crc="24826601" ref="contact"/>
-    <file name="october.css" crc="261689603" ref="october"/>
-    <file name="about.css" crc="3903624108" ref="about"/>
-    <file name="november.css" crc="360897699" ref="november"/>
-    <file name="index.css" crc="339620859" ref="index"/>
-    <file name="september.css" crc="3963302954" ref="september"/>
-    <file name="past-broadcasts.css" crc="4018391057" ref="past-broadcasts"/>
+    <file name="site_global.css" crc="443350757"/>
+    <file name="december.css" crc="4115338487" ref="december"/>
+    <file name="september.css" crc="158012192" ref="september"/>
+    <file name="october.css" crc="153575533" ref="october"/>
+    <file name="november.css" crc="3764225440" ref="november"/>
+    <file name="contact.css" crc="3773341274" ref="contact"/>
+    <file name="index.css" crc="407680280" ref="index"/>
+    <file name="about.css" crc="252829542" ref="about"/>
+    <file name="past-broadcasts.css" crc="225487848" ref="past-broadcasts"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:past-broadcasts:contact:about:september:october:november"/>
-    <file name="museutils.js" crc="3851988764" ref="index:past-broadcasts:contact:about:september:october:november"/>
-    <file name="whatinput.js" crc="86476730" ref="index:past-broadcasts:contact:about:september:october:november"/>
-    <file name="museconfig.js" crc="169177150" ref="index:past-broadcasts:contact:about:september:october:november"/>
-    <file name="jquery.musemenu.js" crc="4150485998" ref="index:past-broadcasts:contact:about:september:october:november"/>
-    <file name="jquery.watch.js" crc="3842844514" ref="index:past-broadcasts:contact:about:september:october:november"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:past-broadcasts:contact:about:september:october:november"/>
-    <file name="require.js" crc="4108833657" ref="index:past-broadcasts:contact:about:september:october:november"/>
-    <file name="pie.js" crc="3831537696" ref="past-broadcasts:contact:september:october:november"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:past-broadcasts:contact:about:september:october:november:december"/>
+    <file name="museutils.js" crc="163421577" ref="index:past-broadcasts:contact:about:september:october:november:december"/>
+    <file name="whatinput.js" crc="86476730" ref="index:past-broadcasts:contact:about:september:october:november:december"/>
+    <file name="museconfig.js" crc="36584860" ref="index:past-broadcasts:contact:about:september:october:november:december"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:past-broadcasts:contact:about:september:october:november:december"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:past-broadcasts:contact:about:september:october:november:december"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:past-broadcasts:contact:about:september:october:november:december"/>
+    <file name="require.js" crc="244322403" ref="index:past-broadcasts:contact:about:september:october:november:december"/>
   </folder>
   <folder name="images">
-    <file name="arrowmenudown.png" crc="345214036" ref="index"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="index:past-broadcasts:contact:about:september:october:november:december"/>
   </folder>
-  <file name="index.html" crc="4282848641" seo="true" mt="1478238827658" redirect="true"/>
-  <file name="past-broadcasts.html" crc="481887959" seo="true" mt="1478060542307" redirect="true"/>
-  <file name="contact.html" crc="167561983" seo="true" mt="1478063821363" redirect="true"/>
-  <file name="about.html" crc="4224717165" seo="true" mt="1478061508581" redirect="true"/>
-  <file name="september.html" crc="3822931133" seo="true" mt="1478060601244" redirect="true"/>
-  <file name="october.html" crc="511078937" seo="true" mt="1478060629980" redirect="true"/>
-  <file name="november.html" crc="4258384210" seo="true" mt="1478238944407" redirect="true"/>
+  <file name="index.html" crc="4049032308" seo="true" mt="1482470137367" redirect="true"/>
+  <file name="past-broadcasts.html" crc="277467353" seo="true" mt="1482470159687" redirect="true"/>
+  <file name="contact.html" crc="3926553565" seo="true" mt="1482470137369" redirect="true"/>
+  <file name="about.html" crc="159838859" seo="true" mt="1482470137375" redirect="true"/>
+  <file name="september.html" crc="161083632" seo="true" mt="1482470653632" redirect="true"/>
+  <file name="october.html" crc="65983733" seo="true" mt="1482471190756" redirect="true"/>
+  <file name="november.html" crc="94212377" seo="true" mt="1482472019568" redirect="true"/>
+  <file name="december.html" crc="3894887574" seo="true" mt="1482472491452" redirect="true"/>
 </manifest>
