@@ -1,14 +1,14 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mustangtelevision.github.io" resolutions="1x" timestamp="1482472675221">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mustangtelevision.github.io" resolutions="1x" timestamp="1482472893434">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="december.css" crc="4115338487" ref="december"/>
     <file name="september.css" crc="158012192" ref="september"/>
     <file name="october.css" crc="153575533" ref="october"/>
     <file name="november.css" crc="3764225440" ref="november"/>
-    <file name="contact.css" crc="3773341274" ref="contact"/>
-    <file name="index.css" crc="407680280" ref="index"/>
+    <file name="contact.css" crc="3945235753" ref="contact"/>
+    <file name="index.css" crc="253371941" ref="index"/>
     <file name="about.css" crc="252829542" ref="about"/>
-    <file name="past-broadcasts.css" crc="225487848" ref="past-broadcasts"/>
+    <file name="past-broadcasts.css" crc="3833966542" ref="past-broadcasts"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:past-broadcasts:contact:about:september:october:november:december"/>
@@ -23,9 +23,9 @@
   <folder name="images">
     <file name="arrowmenudown.png" crc="262559161" ref="index:past-broadcasts:contact:about:september:october:november:december"/>
   </folder>
-  <file name="index.html" crc="4049032308" seo="true" mt="1482470137367" redirect="true"/>
-  <file name="past-broadcasts.html" crc="277467353" seo="true" mt="1482470159687" redirect="true"/>
-  <file name="contact.html" crc="3926553565" seo="true" mt="1482470137369" redirect="true"/>
+  <file name="index.html" crc="4226192671" seo="true" mt="1482472833796" redirect="true"/>
+  <file name="past-broadcasts.html" crc="349492653" seo="true" mt="1482472858662" redirect="true"/>
+  <file name="contact.html" crc="4130107071" seo="true" mt="1482472848529" redirect="true"/>
   <file name="about.html" crc="159838859" seo="true" mt="1482470137375" redirect="true"/>
   <file name="september.html" crc="161083632" seo="true" mt="1482470653632" redirect="true"/>
   <file name="october.html" crc="65983733" seo="true" mt="1482471190756" redirect="true"/>
