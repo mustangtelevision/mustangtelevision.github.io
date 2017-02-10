@@ -1,16 +1,16 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mustangtelevision.github.io" resolutions="1x" timestamp="1486093116820">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mustangtelevision.github.io" resolutions="1x" timestamp="1486707062556">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="past-broadcasts.css" crc="4192593362" ref="past-broadcasts"/>
-    <file name="december.css" crc="3926940755" ref="december"/>
-    <file name="february.css" crc="3845936070" ref="february"/>
-    <file name="january.css" crc="3765649720" ref="january"/>
-    <file name="september.css" crc="382784184" ref="september"/>
-    <file name="october.css" crc="534190448" ref="october"/>
-    <file name="contact.css" crc="111085253" ref="contact"/>
-    <file name="index.css" crc="3809744214" ref="index"/>
-    <file name="november.css" crc="4236725136" ref="november"/>
-    <file name="about.css" crc="491370178" ref="about"/>
+    <file name="february.css" crc="4153557671" ref="february"/>
+    <file name="december.css" crc="219683504" ref="december"/>
+    <file name="september.css" crc="200509266" ref="september"/>
+    <file name="past-broadcasts.css" crc="3797519627" ref="past-broadcasts"/>
+    <file name="january.css" crc="39116457" ref="january"/>
+    <file name="october.css" crc="3821034759" ref="october"/>
+    <file name="index.css" crc="488668758" ref="index"/>
+    <file name="november.css" crc="126724994" ref="november"/>
+    <file name="about.css" crc="311856315" ref="about"/>
+    <file name="contact.css" crc="3781103328" ref="contact"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:past-broadcasts:contact:about:september:october:november:december:january:february"/>
@@ -25,14 +25,14 @@
   <folder name="images">
     <file name="arrowmenudown.png" crc="262559161" ref="index:past-broadcasts:contact:about:september:october:november:december:january:february"/>
   </folder>
-  <file name="index.html" crc="215276968" seo="true" mt="1486093036140" redirect="true"/>
-  <file name="past-broadcasts.html" crc="4150816958" seo="true" mt="1486093036228" redirect="true"/>
-  <file name="contact.html" crc="4175868567" seo="true" mt="1486093036116" redirect="true"/>
-  <file name="about.html" crc="4051518391" seo="true" mt="1486093036184" redirect="true"/>
-  <file name="september.html" crc="298655148" seo="true" mt="1486093036046" redirect="true"/>
-  <file name="october.html" crc="245637416" seo="true" mt="1486093036163" redirect="true"/>
-  <file name="november.html" crc="519145889" seo="true" mt="1486093036068" redirect="true"/>
-  <file name="december.html" crc="4035570988" seo="true" mt="1486093036092" redirect="true"/>
-  <file name="january.html" crc="3902399340" seo="true" mt="1486093036205" redirect="true"/>
-  <file name="february.html" crc="3767550370" seo="true" mt="1486093087779" redirect="true"/>
+  <file name="index.html" crc="298979108" seo="true" mt="1486706972955" redirect="true"/>
+  <file name="past-broadcasts.html" crc="331573620" seo="true" mt="1486706852390" redirect="true"/>
+  <file name="contact.html" crc="216361889" seo="true" mt="1486706852388" redirect="true"/>
+  <file name="about.html" crc="3875922041" seo="true" mt="1486706852387" redirect="true"/>
+  <file name="september.html" crc="4274508730" seo="true" mt="1486706852389" redirect="true"/>
+  <file name="october.html" crc="3880793478" seo="true" mt="1486706852391" redirect="true"/>
+  <file name="november.html" crc="298137769" seo="true" mt="1486706852385" redirect="true"/>
+  <file name="december.html" crc="81714578" seo="true" mt="1486706852386" redirect="true"/>
+  <file name="january.html" crc="156921165" seo="true" mt="1486706852384" redirect="true"/>
+  <file name="february.html" crc="3800410544" seo="true" mt="1486707017818" redirect="true"/>
 </manifest>
