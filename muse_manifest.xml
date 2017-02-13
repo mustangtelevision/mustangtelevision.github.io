@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mustangtelevision.github.io" resolutions="1x" timestamp="1486959130190">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
@@ -16,6 +17,11 @@
 <manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mustangtelevision.github.io" resolutions="1x" timestamp="1486093116820">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
+=======
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mustangtelevision.github.io" resolutions="1x" timestamp="1486093116820">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+>>>>>>> parent of 986c631... Update MTV
     <file name="past-broadcasts.css" crc="4192593362" ref="past-broadcasts"/>
     <file name="december.css" crc="3926940755" ref="december"/>
     <file name="february.css" crc="3845936070" ref="february"/>
@@ -26,6 +32,9 @@
     <file name="index.css" crc="3809744214" ref="index"/>
     <file name="november.css" crc="4236725136" ref="november"/>
     <file name="about.css" crc="491370178" ref="about"/>
+<<<<<<< HEAD
+>>>>>>> parent of 986c631... Update MTV
+=======
 >>>>>>> parent of 986c631... Update MTV
   </folder>
   <folder name="scripts">
@@ -44,6 +53,7 @@
     <file name="mirrored_squares.jpg" crc="3955799035" ref="index"/>
   </folder>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <file name="index.html" crc="3970701788" seo="true" mt="1486958900405" redirect="true"/>
   <file name="past-broadcasts.html" crc="331573620" seo="true" mt="1486706852390" redirect="true"/>
   <file name="contact.html" crc="216361889" seo="true" mt="1486706852388" redirect="true"/>
@@ -55,6 +65,8 @@
   <file name="january.html" crc="156921165" seo="true" mt="1486706852384" redirect="true"/>
   <file name="february.html" crc="3800410544" seo="true" mt="1486707017818" redirect="true"/>
 =======
+=======
+>>>>>>> parent of 986c631... Update MTV
   <file name="index.html" crc="215276968" seo="true" mt="1486093036140" redirect="true"/>
   <file name="past-broadcasts.html" crc="4150816958" seo="true" mt="1486093036228" redirect="true"/>
   <file name="contact.html" crc="4175868567" seo="true" mt="1486093036116" redirect="true"/>
@@ -65,5 +77,8 @@
   <file name="december.html" crc="4035570988" seo="true" mt="1486093036092" redirect="true"/>
   <file name="january.html" crc="3902399340" seo="true" mt="1486093036205" redirect="true"/>
   <file name="february.html" crc="3767550370" seo="true" mt="1486093087779" redirect="true"/>
+<<<<<<< HEAD
+>>>>>>> parent of 986c631... Update MTV
+=======
 >>>>>>> parent of 986c631... Update MTV
 </manifest>
