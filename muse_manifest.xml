@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mustangtelevision.github.io" resolutions="1x" timestamp="1486707062556">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mustangtelevision.github.io" resolutions="1x" timestamp="1486959130190">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="february.css" crc="4153557671" ref="february"/>
@@ -7,7 +7,7 @@
     <file name="past-broadcasts.css" crc="3797519627" ref="past-broadcasts"/>
     <file name="january.css" crc="39116457" ref="january"/>
     <file name="october.css" crc="3821034759" ref="october"/>
-    <file name="index.css" crc="488668758" ref="index"/>
+    <file name="index.css" crc="4121635527" ref="index"/>
     <file name="november.css" crc="126724994" ref="november"/>
     <file name="about.css" crc="311856315" ref="about"/>
     <file name="contact.css" crc="3781103328" ref="contact"/>
@@ -24,8 +24,10 @@
   </folder>
   <folder name="images">
     <file name="arrowmenudown.png" crc="262559161" ref="index:past-broadcasts:contact:about:september:october:november:december:january:february"/>
+    <file name="bedge_grunge.jpg" crc="4138745294" ref="index"/>
+    <file name="mirrored_squares.jpg" crc="3955799035" ref="index"/>
   </folder>
-  <file name="index.html" crc="298979108" seo="true" mt="1486706972955" redirect="true"/>
+  <file name="index.html" crc="3970701788" seo="true" mt="1486958900405" redirect="true"/>
   <file name="past-broadcasts.html" crc="331573620" seo="true" mt="1486706852390" redirect="true"/>
   <file name="contact.html" crc="216361889" seo="true" mt="1486706852388" redirect="true"/>
   <file name="about.html" crc="3875922041" seo="true" mt="1486706852387" redirect="true"/>
