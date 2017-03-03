@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mustangtelevision.github.io" resolutions="1x" timestamp="1488517921598">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
@@ -13,21 +12,6 @@
     <file name="november.css" crc="4159732665" ref="november"/>
     <file name="about.css" crc="3779585213" ref="about"/>
     <file name="december.css" crc="183511229" ref="december"/>
-=======
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mustangtelevision.github.io" resolutions="1x" timestamp="1487922016354">
-  <folder name="css">
-    <file name="site_global.css" crc="443350757"/>
-    <file name="past-broadcasts.css" crc="4067895327" ref="past-broadcasts"/>
-    <file name="january.css" crc="3769738924" ref="january"/>
-    <file name="contact.css" crc="399710625" ref="contact"/>
-    <file name="february.css" crc="3852611184" ref="february"/>
-    <file name="october.css" crc="4196752117" ref="october"/>
-    <file name="november.css" crc="3786895531" ref="november"/>
-    <file name="about.css" crc="4044571765" ref="about"/>
-    <file name="index.css" crc="4263732203" ref="index"/>
-    <file name="december.css" crc="162501778" ref="december"/>
-    <file name="september.css" crc="3929703142" ref="september"/>
->>>>>>> origin/master
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:past-broadcasts:contact:about:september:october:november:december:january:february:march"/>
@@ -44,7 +28,6 @@
     <file name="arrowmenudown.png" crc="262559161" ref="index:past-broadcasts:contact:about:september:october:november:december:january:february:march"/>
     <file name="mirrored_squares.jpg" crc="3955799035" ref="index:past-broadcasts:contact:about:september:october:november:december:january:february:march"/>
   </folder>
-<<<<<<< HEAD
   <file name="index.html" crc="342055005" seo="true" mt="1488517901017" redirect="true"/>
   <file name="past-broadcasts.html" crc="3991346990" seo="true" mt="1488517780307" redirect="true"/>
   <file name="contact.html" crc="149006725" seo="true" mt="1488517780306" redirect="true"/>
@@ -56,16 +39,4 @@
   <file name="january.html" crc="446539748" seo="true" mt="1488517780313" redirect="true"/>
   <file name="february.html" crc="429972654" seo="true" mt="1488517780315" redirect="true"/>
   <file name="march.html" crc="4008615603" seo="true" mt="1488517888999" redirect="true"/>
-=======
-  <file name="index.html" crc="18439430" seo="true" mt="1487921979946" redirect="true"/>
-  <file name="past-broadcasts.html" crc="426965689" seo="true" mt="1487226947056" redirect="true"/>
-  <file name="contact.html" crc="448920186" seo="true" mt="1487226947046" redirect="true"/>
-  <file name="about.html" crc="3819085977" seo="true" mt="1487226947045" redirect="true"/>
-  <file name="september.html" crc="4060423270" seo="true" mt="1487226947055" redirect="true"/>
-  <file name="october.html" crc="57591113" seo="true" mt="1487226947053" redirect="true"/>
-  <file name="november.html" crc="3822908284" seo="true" mt="1487226947052" redirect="true"/>
-  <file name="december.html" crc="3936079939" seo="true" mt="1487226947050" redirect="true"/>
-  <file name="january.html" crc="4197448993" seo="true" mt="1487226947049" redirect="true"/>
-  <file name="february.html" crc="129099379" seo="true" mt="1487921968416" redirect="true"/>
->>>>>>> origin/master
 </manifest>
