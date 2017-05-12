@@ -1,19 +1,19 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mustangtelevision.github.io" resolutions="1x" timestamp="1493966902295">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mustangtelevision.github.io" resolutions="1x" timestamp="1494565354616">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="january.css" crc="3824363524" ref="january"/>
-    <file name="about.css" crc="314010379" ref="about"/>
-    <file name="index.css" crc="266845876" ref="index"/>
-    <file name="february.css" crc="4006687508" ref="february"/>
-    <file name="september.css" crc="4110075956" ref="september"/>
-    <file name="contact.css" crc="332567225" ref="contact"/>
-    <file name="march.css" crc="172873980" ref="march"/>
-    <file name="october.css" crc="363710590" ref="october"/>
-    <file name="april.css" crc="4045307713" ref="april"/>
-    <file name="may.css" crc="3854031447" ref="may"/>
-    <file name="november.css" crc="4028083405" ref="november"/>
-    <file name="past-broadcasts.css" crc="533476556" ref="past-broadcasts"/>
-    <file name="december.css" crc="4248633766" ref="december"/>
+    <file name="september.css" crc="3933328288" ref="september"/>
+    <file name="april.css" crc="384437277" ref="april"/>
+    <file name="october.css" crc="3768819805" ref="october"/>
+    <file name="may.css" crc="4290315931" ref="may"/>
+    <file name="november.css" crc="3795690410" ref="november"/>
+    <file name="index.css" crc="321334553" ref="index"/>
+    <file name="december.css" crc="244345303" ref="december"/>
+    <file name="past-broadcasts.css" crc="256125871" ref="past-broadcasts"/>
+    <file name="contact.css" crc="3854028634" ref="contact"/>
+    <file name="january.css" crc="4154387490" ref="january"/>
+    <file name="february.css" crc="3852741068" ref="february"/>
+    <file name="about.css" crc="263893390" ref="about"/>
+    <file name="march.css" crc="4045906439" ref="march"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:past-broadcasts:contact:about:september:october:november:december:january:february:march:april:may"/>
@@ -27,68 +27,68 @@
   </folder>
   <folder name="images">
     <file name="bedge_grunge.jpg" crc="4294341817" ref="index:past-broadcasts:contact:about:september:october:november:december:january:february:march:april:may">
-      <caption webpage="september" alt=""/>
-      <caption webpage="november" alt=""/>
-      <caption webpage="november" alt=""/>
+      <caption webpage="october" alt=""/>
+      <caption webpage="october" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="march" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="january" alt=""/>
+      <caption webpage="january" alt=""/>
+      <caption webpage="november" alt=""/>
+      <caption webpage="november" alt=""/>
       <caption webpage="past-broadcasts" alt=""/>
       <caption webpage="february" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="september" alt=""/>
+      <caption webpage="march" alt=""/>
       <caption webpage="may" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="october" alt=""/>
-      <caption webpage="october" alt=""/>
       <caption webpage="december" alt=""/>
       <caption webpage="december" alt=""/>
       <caption webpage="april" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="january" alt=""/>
-      <caption webpage="january" alt=""/>
     </file>
     <file name="arrowmenudown.png" crc="262559161" ref="index:past-broadcasts:contact:about:september:october:november:december:january:february:march:april:may">
-      <caption webpage="september" alt=""/>
-      <caption webpage="november" alt=""/>
+      <caption webpage="october" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="march" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="january" alt=""/>
+      <caption webpage="november" alt=""/>
       <caption webpage="past-broadcasts" alt=""/>
       <caption webpage="february" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="september" alt=""/>
+      <caption webpage="march" alt=""/>
       <caption webpage="may" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="october" alt=""/>
       <caption webpage="december" alt=""/>
       <caption webpage="april" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="january" alt=""/>
     </file>
     <file name="mirrored_squares.jpg" crc="3955799035" ref="index:past-broadcasts:contact:about:september:october:november:december:january:february:march:april:may">
-      <caption webpage="september" alt=""/>
-      <caption webpage="november" alt=""/>
+      <caption webpage="october" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="march" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="january" alt=""/>
+      <caption webpage="november" alt=""/>
       <caption webpage="past-broadcasts" alt=""/>
       <caption webpage="february" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="september" alt=""/>
+      <caption webpage="march" alt=""/>
       <caption webpage="may" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="october" alt=""/>
       <caption webpage="december" alt=""/>
       <caption webpage="april" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="january" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4238533116" seo="true" mt="1493966566246" redirect="true"/>
-  <file name="past-broadcasts.html" crc="3765718337" seo="true" mt="1493960126481" redirect="true"/>
-  <file name="contact.html" crc="4092004444" seo="true" mt="1493960126477" redirect="true"/>
-  <file name="about.html" crc="22403139" seo="true" mt="1493960126469" redirect="true"/>
-  <file name="september.html" crc="3781136275" seo="true" mt="1493960126486" redirect="true"/>
-  <file name="october.html" crc="3902197905" seo="true" mt="1493960126478" redirect="true"/>
-  <file name="november.html" crc="3809337048" seo="true" mt="1493960126470" redirect="true"/>
-  <file name="december.html" crc="3817260253" seo="true" mt="1493960126476" redirect="true"/>
-  <file name="january.html" crc="277271843" seo="true" mt="1493960126487" redirect="true"/>
-  <file name="february.html" crc="3893374166" seo="true" mt="1493960126485" redirect="true"/>
-  <file name="march.html" crc="3801327883" seo="true" mt="1493960126475" redirect="true"/>
-  <file name="april.html" crc="185781797" seo="true" mt="1493961552139" redirect="true"/>
-  <file name="may.html" crc="4039163153" seo="true" mt="1493966557441" redirect="true"/>
+  <file name="index.html" crc="478092445" seo="true" mt="1494565292648" redirect="true"/>
+  <file name="past-broadcasts.html" crc="325580759" seo="true" mt="1493960126481" redirect="true"/>
+  <file name="contact.html" crc="4142544897" seo="true" mt="1493960126477" redirect="true"/>
+  <file name="about.html" crc="4095419122" seo="true" mt="1493960126469" redirect="true"/>
+  <file name="september.html" crc="3973830149" seo="true" mt="1493960126486" redirect="true"/>
+  <file name="october.html" crc="383792666" seo="true" mt="1493960126478" redirect="true"/>
+  <file name="november.html" crc="4248855370" seo="true" mt="1493960126470" redirect="true"/>
+  <file name="december.html" crc="465479033" seo="true" mt="1493960126476" redirect="true"/>
+  <file name="january.html" crc="517764641" seo="true" mt="1493960126487" redirect="true"/>
+  <file name="february.html" crc="3803032398" seo="true" mt="1493960126485" redirect="true"/>
+  <file name="march.html" crc="162275203" seo="true" mt="1493960126475" redirect="true"/>
+  <file name="april.html" crc="99309558" seo="true" mt="1493961552139" redirect="true"/>
+  <file name="may.html" crc="446911954" seo="true" mt="1494565345686" redirect="true"/>
 </manifest>
